@@ -2,7 +2,7 @@ import sys
 
 from PyQt5 import uic  # Импортируем uic
 from PyQt5.QtWidgets import QApplication, QMainWindow
-from PyQt5.QtGui import QColor, QPolygon, QPainter
+from PyQt5.QtGui import QColor, QPainter
 from random import randint
 
 
